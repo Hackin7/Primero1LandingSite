@@ -1,3 +1,10 @@
+# Primero 1 Landing Site
+A Simple landing page for Primero 1. Based on the [Start Bootstrap - New Age] web app landing page template
+
+Includes Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY. Includes download links to APK files, Google Play, Amazon App Store,and to the URL of the Web App. Also includes links to sites with more information like sugarizer.org
+
+Made for the Google Code-In Task :(https://codein.withgoogle.com/tasks/5571261011853312/?sp-is_beginner=False&sp-search=Html)
+
 # [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
 
 [New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
